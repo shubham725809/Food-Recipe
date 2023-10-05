@@ -1,5 +1,10 @@
 # Food-Recipe
-this app have these number of features : 1.Button to add the dish to the favourite list. 2.Users can see trending Dishes.3.Ingredients details. 4.Time Required to cook the dish etc
+this app have these number of features :
+1. Button to add the dish to the favourite list.
+2. Users can see trending Dishes.
+3. Ingredients details.
+4. Time Required to cook the dish etc
+
 ![image](https://github.com/shubham725809/Food-Recipe/assets/91181470/565d97a4-468d-464c-a4b5-5d793f632d50)
 ![image](https://github.com/shubham725809/Food-Recipe/assets/91181470/350cde40-7ad6-41eb-978d-c3a0b12f1b12)
 ![image](https://github.com/shubham725809/Food-Recipe/assets/91181470/ba485ca2-8add-47e9-a399-68934c10c977)
